@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1892405037790613&tbnid=Jgne_S0VVguC6M&vet=12ahUKEwi07I-7krmAAxXjNd4AHegWC9UQMygIegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FAzurLaneEN%2Fphotos%2Fa.614995418864921%2F1892405037790613%2F%3Ftype%3D3&docid=Zr5TS2pXWWYHxM&w=2048&h=1152&q=yorktown%20ii%20azur%20lane&client=opera-gx&ved=2ahUKEwi07I-7krmAAxXjNd4AHegWC9UQMygIegUIARD1AQ);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
